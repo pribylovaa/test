@@ -11,6 +11,8 @@ import (
 	"time"
 )
 
+// Добавляю новый комментарий для отработки навыков обращения с Git!
+
 // bufferDrainInterval - интервал очистки кольцевого буфера
 const bufferDrainInterval time.Duration = 15 * time.Second
 
